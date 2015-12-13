@@ -1,0 +1,7 @@
+不要浮躁
+
+Bad programming is easy. Even Dummies can learn it in 21 days.
+Good programming requires thought, but everyone can do it and everyone can experience the extreme satisfaction that comes with it.
+不管是在线下还是线上的书店，满目都是《21天学通Java》这种速成书目，它们都承诺在很短一段时间内就让你能够学会相关技术。Matthias Felleisen在他的著作 How to Design Program15 一书中明确指出了这种「速成」的趋势并予以了以上的讽刺。
+
+所谓的「捷径」或者说「银弹12」是不存在的，智者说过，精通某个东西需要10年或10000个小时，也就是汉语中的「十年磨一剑」，所以不用着急，功不唐捐。
