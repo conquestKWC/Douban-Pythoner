@@ -14,6 +14,9 @@ def GetPersonInfo():
       L.append((Info[x],detail[x]))
    return L  #返回一个列表，直接可以用dict转换为字典
 
+from echo import echo
+echo(__file__)
+
 detail = GetPersonInfo()
 PersonInfo = dict(detail)
 
